@@ -35,7 +35,11 @@ print('Passed')  # statement is not indented properly
 
 if grade >= 60:
     print('Passed')
+<<<<<<< Updated upstream
   print('Good job!')
+=======
+    print('Good job!')   #Fixed indention and added closing '
+>>>>>>> Stashed changes
         
 # if Statement Flowchart
 
@@ -177,7 +181,7 @@ else:
 # Section 3.6 Self Check snippets
 
 # Exercise 2
-grade = 80:
+grade = 80  # removed :
 
 if grade >= 90:
     print('A')
